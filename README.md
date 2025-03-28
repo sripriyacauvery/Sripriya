@@ -1,7 +1,7 @@
 <html>
 <head>
 <body>
-  <center><h1>My Bio-Data</h1></center><img src="SripriyaCimage.pdf  ">
+  <center><h1>My Bio-Data</h1></center><img src="Sripriya C image.pdf">
   <table>
     <tr>
       <th>Name:</th>
